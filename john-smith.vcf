@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:John Smith
+N:Smith;John;;;
+TEL;TYPE=CELL:+1234567890
+EMAIL:john@example.com
+ORG:Your Company
+TITLE:Your Job Title
+URL:https://yourwebsite.com
+END:VCARD
